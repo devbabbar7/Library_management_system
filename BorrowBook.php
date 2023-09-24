@@ -31,10 +31,10 @@
 
 <?php
 
-	$dbhost="localhost";
-	$username="root";
-	$password="";
-	$db="library";
+	$dbhost="sp05bkrvp5vjxnw0";
+	$username="a6vm35qff25ghn46";
+	$password="eyvqcfxf5reja3nv.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306";
+	$db="cy2l2kv3hch20h3q";
 
 	$RollNo="";
 	$Name="";	
