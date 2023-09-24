@@ -1,2 +1,1 @@
-web: heroku-php-apache2
-echo "web: vendor/bin/heroku-php-apache2 public/" > Procfile
+web: php -S 0.0.0.0:$PORT -t myapp
